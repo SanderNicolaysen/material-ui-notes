@@ -1,27 +1,39 @@
 {
   "notes": [
     {
-      "title": "Yoshi's birthday bash",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "reminders",
+      "title": "Star Wars",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa finibus, pharetra est id, volutpat elit. Pellentesque nec urna non erat laoreet tempus. Mauris quis tincidunt elit.",
+      "category": "movies",
       "id": 1
     },
     {
-      "title": "Complete my ninja training",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
-      "category": "work",
+      "title": "Harry Potter",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa finibus, pharetra est id, volutpat elit. Pellentesque nec urna non erat laoreet tempus. Mauris quis tincidunt elit.",
+      "category": "books",
       "id": 2
     },
     {
-      "title": "do it",
-      "details": "dede",
-      "category": "water",
+      "title": "Random Note",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa finibus, pharetra est id, volutpat elit.",
+      "category": "books",
+      "id": 4
+    },
+    {
+      "title": "Random",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa finibus, pharetra est id, volutpat elit.",
+      "category": "ipsum",
       "id": 5
     },
     {
-      "title": "new note",
-      "details": "my nerw note",
-      "category": "milk",
+      "title": "asd",
+      "details": "asd",
+      "category": "books",
+      "id": 6
+    },
+    {
+      "title": "Lorem",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa finibus, pharetra est id, volutpat elit. Pellentesque nec urna non erat laoreet tempus. Mauris quis tincidunt elit.",
+      "category": "music",
       "id": 7
     }
   ]

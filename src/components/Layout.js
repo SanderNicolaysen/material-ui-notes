@@ -22,8 +22,9 @@ const useStyles = makeStyles((theme) => {
       display: "flex",
     },
     page: {
-      backgroundColor: "#f9f9f9",
+      backgroundColor: "#fafafa",
       width: "100%",
+      minHeight: "100vh",
       padding: theme.spacing(3),
     },
     drawer: {

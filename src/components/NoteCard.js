@@ -4,16 +4,19 @@ import CardHeader from "@material-ui/core/CardHeader";
 import CardContent from "@material-ui/core/CardContent";
 import { Avatar, IconButton, makeStyles, Typography } from "@material-ui/core";
 import DeleteIcon from "@material-ui/icons/Delete";
-import { blue, red, yellow } from "@material-ui/core/colors";
+import { blue, purple, red, yellow } from "@material-ui/core/colors";
 
 const useStyles = makeStyles({
   avatar: {
     backgroundColor: (note) => {
-      if (note.category === "milk") {
+      if (note.category === "movies") {
         return red[500];
       }
-      if (note.category === "water") {
+      if (note.category === "books") {
         return yellow[700];
+      }
+      if (note.category === "music") {
+        return purple[700];
       }
       return blue[500];
     },

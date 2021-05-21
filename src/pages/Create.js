@@ -93,9 +93,13 @@ const Create = () => {
             value={category}
             onChange={(e) => setCategory(e.target.value)}
           >
-            <FormControlLabel value="milk" control={<Radio />} label="Milk" />
-            <FormControlLabel value="water" control={<Radio />} label="Water" />
-            <FormControlLabel value="ice" control={<Radio />} label="Ice" />
+            <FormControlLabel
+              value="movies"
+              control={<Radio />}
+              label="Movies"
+            />
+            <FormControlLabel value="books" control={<Radio />} label="Books" />
+            <FormControlLabel value="music" control={<Radio />} label="Music" />
           </RadioGroup>
         </FormControl>
 
