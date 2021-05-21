@@ -1,3 +1,16 @@
+# Notes App
+
+# Tools
+- React
+- Material-UI React
+- JSON Server
+
+# Create Notes
+![portal](./public/Screenshot%202021-05-21%20at%2013.23.55.png)
+
+# Notes
+![portal](./public/Screenshot%202021-05-21%20at%2013.23.35.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
